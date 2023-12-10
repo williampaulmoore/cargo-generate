@@ -1,0 +1,7 @@
+[placeholders.network_enabled]
+type = "bool"
+prompt = "Enable network?"
+default = true
+
+[conditional.'network_enabled == true']
+ignore = [ "./input2.txt" ]

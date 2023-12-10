@@ -1,0 +1,6 @@
+{% if network_enabled %}
+network enabled
+{% else %}
+network disabled
+{% endif %}
+
