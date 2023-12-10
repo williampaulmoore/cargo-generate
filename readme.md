@@ -18,3 +18,10 @@ cargo install cargo-generate
 ```sh
 cargo generate --path ./template
 ```
+
+
+## References
+
+- [Docs](https://cargo-generate.github.io/cargo-generate/index.html)
+- [Repo](https://github.com/cargo-generate/cargo-generate)
+
